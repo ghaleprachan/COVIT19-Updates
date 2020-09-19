@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Covit-19 Updates</string>
+    <string name="get_started">Get Started</string>
+    <string name="select_country">Select Country</string>
+    <string name="confirm">Confirm</string>
+    <string name="slogan">Stay home, stay safe!</string>
+    <string name="covit_19_info">COVID-19 info</string>
+    <string name="total_cases"><u>Total Cases</u></string>
+    <string name="total_deaths"><u>Deaths</u></string>
+    <string name="total_recovered"><u>Recovered</u></string>
+    <string name="new_recovered"><u>New Recovers</u></string>
+    <string name="title_activity_dashboard">Home</string>
+    <string name="search">Search</string>
+    <string name="enter_country">Enter Country</string>
+    <string name="cases"><u>Total Cases</u></string>
+    <string name="recover"><u>Recover</u></string>
+    <string name="deaths"><u>Deaths</u></string>
+    <string name="new_deaths"><u>New Deaths</u></string>
+</resources>
